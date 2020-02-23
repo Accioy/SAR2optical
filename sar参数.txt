@@ -1,0 +1,4 @@
+波段：C-bandSARsensors （,whichenables them to acquire imagery regardless of the weather）
+带宽：
+250 km swath
+分辨率： 5 x 20 m spatial resolution
